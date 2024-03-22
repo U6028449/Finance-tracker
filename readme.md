@@ -2,9 +2,9 @@
 
 
 ## Table of Contents
-#description
-#use
-#links
+description
+use
+links
 
 ## Description
 the webpage runs a simple function designed to collect employee data such as first name, last name, and salary.
